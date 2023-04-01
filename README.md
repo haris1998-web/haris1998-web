@@ -2,9 +2,9 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mhy45/)
 
-- 🔭 I’m currently working as Software Engineer.
+- 🔭 I’m currently working as a Backend Developer.
 - 🌱 I’m currently learning Data Science and Machine Learning.
-- 👯 I’m looking to collaborate on Django and Python.
+- 👯 I’m looking to collaborate on Python, Django and Pandas.
 - 🤔 I’m looking for passionate people with common interests and goals. 
 - 💬 Ask me about Backend Development.
 - 📫 How to reach me: muhammadharisyousaf@gmail.com
