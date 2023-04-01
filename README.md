@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on Django and Python.
 - 🤔 I’m looking for passionate people with common interests and goals. 
 - 💬 Ask me about Backend Development.
-- 📫 How to reach me: nadeem.shah0777@gmail.com
+- 📫 How to reach me: muhammadharisyousaf@gmail.com
 
 
 <h3 align="left">Languages and Tools:</h3>
